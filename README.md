@@ -5,9 +5,11 @@ This repository is an official PyTorch implementation of the paper "Personalized
 <div align=center><img width="500" src=/figs/retrogress_curve.png></div>
 
 
-<div align=center><img width="500" src=/figs/framework.png></div>
 
 ## Personalized Retrogress-Resilient FL Framework
+
+<div align=center><img width="500" src=/figs/framework.png></div>
+
 **Personalized Retrogress-Resilient FL Framework** .
 
 
