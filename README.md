@@ -10,8 +10,10 @@ In the scenarios of real-world medical FL, an abrupt performance drop (termed as
 
 <div align=center><img width="600" src=/figs/framework.png></div>
 
-**Personalized Retrogress-Resilient FL Framework** aims to generate a personalized model with superior performance for each client. By introducing a deputy model to exchange the knowledge between the server and the client, the personalized model can keep the stable local training, without being disturbed by the communication.
+**Personalized Retrogress-Resilient FL Framework** aims to generate a personalized model with superior performance for each client. By introducing a deputy model to exchange the knowledge between the server and the client, the personalized model can keep the stable local training, without being disturbed by the communication. This framework includes two improvements at the server and clients:
+
 **Progressive Fourier Aggregation (PFA)** aggregates the relatively low-frequency components of parameters to share the client knowledge, while preserving the individual high-frequency components. For the low-frequency mask, we progressively increase the frequency threshold of the shared component during the FL to stabilize the training.
+
 **Deputy-Enhanced Transfer (DET)** transfers the global knowledge between the deputy model and the personalized model in Recover-Exchange-Sublimate. At the beginning of each iteration, the deputy updated with the server model has poor performance due to the retrogress problem. Thus, the deputy should be improved firstly, and then transfer the knowledge to the personalized model.
 
 ### Download
@@ -33,6 +35,11 @@ cd PRR-FL
 mkdir experiment; mkdir data
 ```
 
+## Quickstart 
+* Train the PRR-FL with default settings:
+```python
+python ./main.py --theme prrfl
+```
 
 ## Cite
 If you find our work useful in your research or publication, please cite our work:
