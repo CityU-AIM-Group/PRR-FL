@@ -2,13 +2,13 @@
 This repository is an official PyTorch implementation of the paper "Personalized Retrogress-Resilient Framework for Real-World Medical Federated Learning" from MICCAI 2021.
 
 ## Retrogress Challenge
-<div align=center><img width="500" src=/figs/retrogress_curve.png></div>
+<div align=center><img width="750" src=/figs/retrogress_curve.png></div>
 
 
 
 ## Personalized Retrogress-Resilient FL Framework
 
-<div align=center><img width="500" src=/figs/framework.png></div>
+<div align=center><img width="600" src=/figs/framework.png></div>
 
 **Personalized Retrogress-Resilient FL Framework** .
 
