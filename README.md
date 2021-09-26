@@ -38,7 +38,7 @@ mkdir experiment; mkdir data
 ## Quickstart 
 * Train the PRR-FL with default settings:
 ```python
-python ./main.py --theme prrfl
+python ./main.py --theme prrfl --iters 50 --wk_iters 5 --network vgg_nb --l_rate 0.7 --lr 1e-2 
 ```
 
 ## Cite
