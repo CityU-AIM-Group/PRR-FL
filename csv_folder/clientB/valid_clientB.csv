@@ -1,0 +1,387 @@
+image_id,label,label_binary,lesion_id,dx,dx_type,age,sex,localization,dataset
+ISIC_0028936,0,0,HAM_0005377,nv,follow_up,65,male,abdomen,vidir_molemax
+ISIC_0028705,0,0,HAM_0002353,nv,follow_up,40,female,foot,vidir_molemax
+ISIC_0029685,0,0,HAM_0002443,nv,follow_up,50,female,trunk,vidir_molemax
+ISIC_0029992,0,0,HAM_0002735,nv,follow_up,50,male,trunk,vidir_molemax
+ISIC_0031701,0,0,HAM_0005142,nv,follow_up,75,male,trunk,vidir_molemax
+ISIC_0024717,0,0,HAM_0004887,nv,follow_up,35,female,back,vidir_molemax
+ISIC_0026767,0,0,HAM_0001527,nv,follow_up,40,male,lower extremity,vidir_molemax
+ISIC_0024473,0,0,HAM_0001414,nv,follow_up,50,male,lower extremity,vidir_molemax
+ISIC_0026628,0,0,HAM_0006935,nv,follow_up,50,male,back,vidir_molemax
+ISIC_0024390,0,0,HAM_0003645,nv,follow_up,65,male,upper extremity,vidir_molemax
+ISIC_0024493,0,0,HAM_0006689,nv,follow_up,40,male,lower extremity,vidir_molemax
+ISIC_0031508,0,0,HAM_0003453,nv,follow_up,55,female,abdomen,vidir_molemax
+ISIC_0026160,0,0,HAM_0001639,nv,follow_up,55,female,trunk,vidir_molemax
+ISIC_0031739,0,0,HAM_0001748,nv,follow_up,40,male,trunk,vidir_molemax
+ISIC_0028955,0,0,HAM_0003875,nv,follow_up,35,male,back,vidir_molemax
+ISIC_0025343,0,0,HAM_0001476,nv,follow_up,35,male,lower extremity,vidir_molemax
+ISIC_0025146,0,0,HAM_0000228,nv,follow_up,50,female,hand,vidir_molemax
+ISIC_0028395,0,0,HAM_0006001,nv,follow_up,45,female,trunk,vidir_molemax
+ISIC_0026339,0,0,HAM_0004951,nv,follow_up,50,female,trunk,vidir_molemax
+ISIC_0027011,0,0,HAM_0000307,nv,follow_up,65,male,back,vidir_molemax
+ISIC_0027366,0,0,HAM_0005839,nv,follow_up,45,male,back,vidir_molemax
+ISIC_0031422,0,0,HAM_0003375,nv,follow_up,50,male,trunk,vidir_molemax
+ISIC_0032053,0,0,HAM_0005945,nv,follow_up,50,male,lower extremity,vidir_molemax
+ISIC_0030518,0,0,HAM_0005872,nv,follow_up,65,female,lower extremity,vidir_molemax
+ISIC_0030073,0,0,HAM_0005764,nv,follow_up,60,female,back,vidir_molemax
+ISIC_0027918,0,0,HAM_0005844,nv,follow_up,45,male,foot,vidir_molemax
+ISIC_0029299,0,0,HAM_0000071,nv,follow_up,55,female,back,vidir_molemax
+ISIC_0028351,0,0,HAM_0002485,nv,follow_up,35,male,upper extremity,vidir_molemax
+ISIC_0024990,0,0,HAM_0005430,nv,follow_up,60,female,trunk,vidir_molemax
+ISIC_0025645,0,0,HAM_0002543,nv,follow_up,45,male,abdomen,vidir_molemax
+ISIC_0024879,0,0,HAM_0001387,nv,follow_up,45,female,back,vidir_molemax
+ISIC_0027630,0,0,HAM_0000108,nv,follow_up,40,male,back,vidir_molemax
+ISIC_0029142,0,0,HAM_0000016,nv,follow_up,55,male,back,vidir_molemax
+ISIC_0025859,0,0,HAM_0002837,nv,follow_up,50,female,back,vidir_molemax
+ISIC_0029709,0,0,HAM_0003763,nv,follow_up,60,male,trunk,vidir_molemax
+ISIC_0027324,0,0,HAM_0003189,nv,follow_up,45,female,lower extremity,vidir_molemax
+ISIC_0028522,0,0,HAM_0004906,nv,follow_up,35,male,lower extremity,vidir_molemax
+ISIC_0031855,0,0,HAM_0002843,nv,follow_up,40,male,hand,vidir_molemax
+ISIC_0027393,0,0,HAM_0007397,nv,follow_up,50,female,trunk,vidir_molemax
+ISIC_0028474,0,0,HAM_0004682,nv,follow_up,50,female,lower extremity,vidir_molemax
+ISIC_0031414,0,0,HAM_0000400,nv,follow_up,45,male,upper extremity,vidir_molemax
+ISIC_0032386,0,0,HAM_0000310,nv,follow_up,40,male,upper extremity,vidir_molemax
+ISIC_0026121,0,0,HAM_0002415,nv,follow_up,30,female,trunk,vidir_molemax
+ISIC_0028924,0,0,HAM_0001149,nv,follow_up,55,male,upper extremity,vidir_molemax
+ISIC_0030831,0,0,HAM_0002926,nv,follow_up,40,female,abdomen,vidir_molemax
+ISIC_0032202,0,0,HAM_0001170,nv,follow_up,55,male,abdomen,vidir_molemax
+ISIC_0026354,0,0,HAM_0005288,nv,follow_up,60,male,trunk,vidir_molemax
+ISIC_0027411,0,0,HAM_0001117,nv,follow_up,40,male,upper extremity,vidir_molemax
+ISIC_0025338,0,0,HAM_0002925,nv,follow_up,60,female,lower extremity,vidir_molemax
+ISIC_0024379,0,0,HAM_0003772,nv,follow_up,35,female,foot,vidir_molemax
+ISIC_0030433,0,0,HAM_0005582,nv,follow_up,50,female,trunk,vidir_molemax
+ISIC_0030448,0,0,HAM_0005013,nv,follow_up,45,female,back,vidir_molemax
+ISIC_0026246,0,0,HAM_0003788,nv,follow_up,45,female,lower extremity,vidir_molemax
+ISIC_0027316,0,0,HAM_0004437,nv,follow_up,45,female,trunk,vidir_molemax
+ISIC_0030393,0,0,HAM_0005238,nv,follow_up,50,male,trunk,vidir_molemax
+ISIC_0030888,0,0,HAM_0005838,nv,follow_up,45,female,abdomen,vidir_molemax
+ISIC_0025159,0,0,HAM_0000283,nv,follow_up,35,female,back,vidir_molemax
+ISIC_0030148,0,0,HAM_0000381,nv,follow_up,55,male,back,vidir_molemax
+ISIC_0025437,0,0,HAM_0007273,nv,follow_up,40,male,abdomen,vidir_molemax
+ISIC_0024488,0,0,HAM_0003783,nv,follow_up,55,female,trunk,vidir_molemax
+ISIC_0030186,0,0,HAM_0006850,nv,follow_up,45,female,trunk,vidir_molemax
+ISIC_0031157,0,0,HAM_0003238,nv,follow_up,45,male,trunk,vidir_molemax
+ISIC_0030702,0,0,HAM_0002246,nv,follow_up,20,male,trunk,vidir_molemax
+ISIC_0032166,0,0,HAM_0001960,nv,follow_up,40,male,trunk,vidir_molemax
+ISIC_0025882,0,0,HAM_0000978,nv,follow_up,55,male,abdomen,vidir_molemax
+ISIC_0026136,0,0,HAM_0003145,nv,follow_up,75,male,neck,vidir_molemax
+ISIC_0029988,0,0,HAM_0002212,nv,follow_up,40,male,back,vidir_molemax
+ISIC_0024621,0,0,HAM_0000314,nv,follow_up,70,male,abdomen,vidir_molemax
+ISIC_0026079,0,0,HAM_0004683,nv,follow_up,35,female,back,vidir_molemax
+ISIC_0027395,0,0,HAM_0007130,nv,follow_up,45,female,trunk,vidir_molemax
+ISIC_0027314,0,0,HAM_0006293,nv,follow_up,60,male,trunk,vidir_molemax
+ISIC_0028661,0,0,HAM_0006776,nv,follow_up,55,male,lower extremity,vidir_molemax
+ISIC_0030001,0,0,HAM_0001658,nv,follow_up,75,male,abdomen,vidir_molemax
+ISIC_0025380,0,0,HAM_0002967,nv,follow_up,35,male,foot,vidir_molemax
+ISIC_0026533,0,0,HAM_0001159,nv,follow_up,45,female,back,vidir_molemax
+ISIC_0025977,0,0,HAM_0001225,nv,follow_up,25,female,trunk,vidir_molemax
+ISIC_0031723,0,0,HAM_0006818,nv,follow_up,55,female,lower extremity,vidir_molemax
+ISIC_0026972,0,0,HAM_0001251,nv,follow_up,45,male,lower extremity,vidir_molemax
+ISIC_0032161,0,0,HAM_0005216,nv,follow_up,70,male,back,vidir_molemax
+ISIC_0024860,0,0,HAM_0002765,nv,follow_up,55,male,trunk,vidir_molemax
+ISIC_0028892,0,0,HAM_0006335,nv,follow_up,40,male,upper extremity,vidir_molemax
+ISIC_0026507,0,0,HAM_0006091,nv,follow_up,75,male,trunk,vidir_molemax
+ISIC_0027682,0,0,HAM_0002550,nv,follow_up,35,female,lower extremity,vidir_molemax
+ISIC_0030939,0,0,HAM_0004045,nv,follow_up,45,female,trunk,vidir_molemax
+ISIC_0025053,0,0,HAM_0005661,nv,follow_up,50,female,abdomen,vidir_molemax
+ISIC_0030729,0,0,HAM_0003048,nv,follow_up,45,female,trunk,vidir_molemax
+ISIC_0026572,0,0,HAM_0002583,nv,follow_up,40,male,trunk,vidir_molemax
+ISIC_0026935,0,0,HAM_0003909,nv,follow_up,40,female,chest,vidir_molemax
+ISIC_0027356,0,0,HAM_0000473,nv,follow_up,35,male,neck,vidir_molemax
+ISIC_0029950,0,0,HAM_0000232,nv,follow_up,50,male,foot,vidir_molemax
+ISIC_0029948,0,0,HAM_0001988,nv,follow_up,35,male,back,vidir_molemax
+ISIC_0029186,0,0,HAM_0006275,nv,follow_up,35,male,lower extremity,vidir_molemax
+ISIC_0029015,0,0,HAM_0002321,nv,follow_up,45,male,back,vidir_molemax
+ISIC_0025393,0,0,HAM_0004358,nv,follow_up,25,female,face,vidir_molemax
+ISIC_0030012,0,0,HAM_0000253,nv,follow_up,45,male,back,vidir_molemax
+ISIC_0029768,0,0,HAM_0002479,nv,follow_up,55,female,lower extremity,vidir_molemax
+ISIC_0025041,0,0,HAM_0001307,nv,follow_up,55,male,abdomen,vidir_molemax
+ISIC_0026543,0,0,HAM_0000599,nv,follow_up,75,male,back,vidir_molemax
+ISIC_0029751,0,0,HAM_0004786,nv,follow_up,75,male,back,vidir_molemax
+ISIC_0029398,0,0,HAM_0002101,nv,follow_up,35,female,upper extremity,vidir_molemax
+ISIC_0026776,0,0,HAM_0004751,nv,follow_up,55,male,lower extremity,vidir_molemax
+ISIC_0030178,0,0,HAM_0003533,nv,follow_up,50,male,lower extremity,vidir_molemax
+ISIC_0025613,0,0,HAM_0000446,nv,follow_up,45,male,abdomen,vidir_molemax
+ISIC_0030805,0,0,HAM_0003200,nv,follow_up,45,female,lower extremity,vidir_molemax
+ISIC_0029542,0,0,HAM_0006388,nv,follow_up,65,male,trunk,vidir_molemax
+ISIC_0030292,0,0,HAM_0002387,nv,follow_up,45,male,back,vidir_molemax
+ISIC_0026718,0,0,HAM_0007285,nv,follow_up,55,female,genital,vidir_molemax
+ISIC_0025311,0,0,HAM_0001594,nv,follow_up,45,female,trunk,vidir_molemax
+ISIC_0025010,0,0,HAM_0002590,nv,follow_up,70,male,trunk,vidir_molemax
+ISIC_0025827,0,0,HAM_0005799,nv,follow_up,50,male,abdomen,vidir_molemax
+ISIC_0032183,0,0,HAM_0007351,nv,follow_up,35,male,back,vidir_molemax
+ISIC_0029410,0,0,HAM_0004286,nv,follow_up,60,male,abdomen,vidir_molemax
+ISIC_0031687,0,0,HAM_0004741,nv,follow_up,65,male,upper extremity,vidir_molemax
+ISIC_0032167,0,0,HAM_0000916,nv,follow_up,45,female,abdomen,vidir_molemax
+ISIC_0029087,0,0,HAM_0000911,nv,follow_up,60,male,upper extremity,vidir_molemax
+ISIC_0026880,0,0,HAM_0006486,nv,follow_up,25,female,lower extremity,vidir_molemax
+ISIC_0029628,0,0,HAM_0004227,nv,follow_up,65,female,upper extremity,vidir_molemax
+ISIC_0025761,0,0,HAM_0006073,nv,follow_up,65,female,lower extremity,vidir_molemax
+ISIC_0029295,0,0,HAM_0005941,nv,follow_up,40,male,abdomen,vidir_molemax
+ISIC_0028342,0,0,HAM_0006008,nv,follow_up,35,female,lower extremity,vidir_molemax
+ISIC_0028193,0,0,HAM_0007554,nv,follow_up,55,female,lower extremity,vidir_molemax
+ISIC_0027078,0,0,HAM_0001660,nv,follow_up,75,male,abdomen,vidir_molemax
+ISIC_0028334,0,0,HAM_0002826,nv,follow_up,30,female,trunk,vidir_molemax
+ISIC_0025845,0,0,HAM_0005868,nv,follow_up,65,male,abdomen,vidir_molemax
+ISIC_0031562,0,0,HAM_0001132,nv,follow_up,40,male,trunk,vidir_molemax
+ISIC_0027556,0,0,HAM_0005916,nv,follow_up,50,female,trunk,vidir_molemax
+ISIC_0031179,0,0,HAM_0001996,nv,follow_up,45,female,lower extremity,vidir_molemax
+ISIC_0025715,0,0,HAM_0007111,nv,follow_up,40,female,lower extremity,vidir_molemax
+ISIC_0024651,0,0,HAM_0001681,nv,follow_up,50,male,lower extremity,vidir_molemax
+ISIC_0027655,0,0,HAM_0006436,nv,follow_up,50,female,lower extremity,vidir_molemax
+ISIC_0029477,0,0,HAM_0004168,nv,follow_up,85,male,trunk,vidir_molemax
+ISIC_0028699,0,0,HAM_0002260,nv,follow_up,35,male,lower extremity,vidir_molemax
+ISIC_0024945,0,0,HAM_0004863,nv,follow_up,40,male,abdomen,vidir_molemax
+ISIC_0026858,0,0,HAM_0007093,nv,follow_up,50,female,abdomen,vidir_molemax
+ISIC_0026646,0,0,HAM_0004477,nv,follow_up,50,male,trunk,vidir_molemax
+ISIC_0032121,0,0,HAM_0006000,nv,follow_up,45,male,trunk,vidir_molemax
+ISIC_0030282,0,0,HAM_0005211,nv,follow_up,50,female,upper extremity,vidir_molemax
+ISIC_0027029,0,0,HAM_0000838,nv,follow_up,45,male,upper extremity,vidir_molemax
+ISIC_0027906,0,0,HAM_0000185,nv,follow_up,80,male,upper extremity,vidir_molemax
+ISIC_0031675,0,0,HAM_0006939,nv,follow_up,50,female,lower extremity,vidir_molemax
+ISIC_0024407,0,0,HAM_0002775,nv,follow_up,40,male,back,vidir_molemax
+ISIC_0024968,0,0,HAM_0000128,nv,follow_up,50,male,foot,vidir_molemax
+ISIC_0027165,0,0,HAM_0005476,nv,follow_up,45,male,lower extremity,vidir_molemax
+ISIC_0032239,0,0,HAM_0004858,nv,follow_up,50,female,trunk,vidir_molemax
+ISIC_0024359,0,0,HAM_0001112,nv,follow_up,40,male,back,vidir_molemax
+ISIC_0026380,0,0,HAM_0000533,nv,follow_up,40,male,trunk,vidir_molemax
+ISIC_0026005,0,0,HAM_0003889,nv,follow_up,45,male,back,vidir_molemax
+ISIC_0025012,0,0,HAM_0000873,nv,follow_up,40,male,upper extremity,vidir_molemax
+ISIC_0028674,0,0,HAM_0000962,nv,follow_up,60,female,lower extremity,vidir_molemax
+ISIC_0026425,0,0,HAM_0002971,nv,follow_up,45,female,lower extremity,vidir_molemax
+ISIC_0028324,0,0,HAM_0006710,nv,follow_up,45,male,trunk,vidir_molemax
+ISIC_0031834,0,0,HAM_0004640,nv,follow_up,55,female,lower extremity,vidir_molemax
+ISIC_0027296,0,0,HAM_0001746,nv,follow_up,65,female,lower extremity,vidir_molemax
+ISIC_0030515,0,0,HAM_0004361,nv,follow_up,45,male,foot,vidir_molemax
+ISIC_0028566,0,0,HAM_0004417,nv,follow_up,35,female,trunk,vidir_molemax
+ISIC_0031405,0,0,HAM_0002333,nv,histo,45,male,trunk,vidir_molemax
+ISIC_0032442,0,0,HAM_0000812,nv,follow_up,50,female,trunk,vidir_molemax
+ISIC_0027929,0,0,HAM_0003442,nv,follow_up,45,male,back,vidir_molemax
+ISIC_0025857,0,0,HAM_0002091,nv,follow_up,80,male,upper extremity,vidir_molemax
+ISIC_0028514,0,0,HAM_0002311,nv,follow_up,40,female,lower extremity,vidir_molemax
+ISIC_0026000,0,0,HAM_0003071,nv,follow_up,80,male,abdomen,vidir_molemax
+ISIC_0027748,0,0,HAM_0004228,nv,follow_up,65,male,lower extremity,vidir_molemax
+ISIC_0031535,0,0,HAM_0003298,nv,follow_up,50,male,back,vidir_molemax
+ISIC_0027980,0,0,HAM_0004144,nv,follow_up,35,male,back,vidir_molemax
+ISIC_0029910,0,0,HAM_0006045,nv,follow_up,50,male,trunk,vidir_molemax
+ISIC_0025455,0,0,HAM_0002504,nv,follow_up,50,male,back,vidir_molemax
+ISIC_0031575,0,0,HAM_0000699,nv,follow_up,50,male,lower extremity,vidir_molemax
+ISIC_0024976,0,0,HAM_0006789,nv,follow_up,35,male,trunk,vidir_molemax
+ISIC_0026061,0,0,HAM_0001973,nv,follow_up,65,female,trunk,vidir_molemax
+ISIC_0031004,0,0,HAM_0001408,nv,follow_up,80,male,back,vidir_molemax
+ISIC_0024844,0,0,HAM_0007217,nv,follow_up,60,male,back,vidir_molemax
+ISIC_0027377,0,0,HAM_0005105,nv,follow_up,45,female,lower extremity,vidir_molemax
+ISIC_0030020,0,0,HAM_0003986,nv,follow_up,30,female,trunk,vidir_molemax
+ISIC_0030938,0,0,HAM_0006098,nv,follow_up,75,male,trunk,vidir_molemax
+ISIC_0030916,0,0,HAM_0006642,nv,follow_up,50,male,trunk,vidir_molemax
+ISIC_0031566,0,0,HAM_0002422,nv,follow_up,60,male,lower extremity,vidir_molemax
+ISIC_0031409,0,0,HAM_0003403,nv,follow_up,70,male,abdomen,vidir_molemax
+ISIC_0026740,0,0,HAM_0003657,nv,follow_up,65,female,trunk,vidir_molemax
+ISIC_0028319,0,0,HAM_0001464,nv,follow_up,70,male,trunk,vidir_molemax
+ISIC_0024692,0,0,HAM_0004744,nv,follow_up,45,female,abdomen,vidir_molemax
+ISIC_0032500,0,0,HAM_0006860,nv,follow_up,40,male,upper extremity,vidir_molemax
+ISIC_0028184,0,0,HAM_0007152,nv,follow_up,20,male,trunk,vidir_molemax
+ISIC_0026682,0,0,HAM_0000327,nv,follow_up,50,female,trunk,vidir_molemax
+ISIC_0031916,0,0,HAM_0000938,nv,follow_up,40,female,foot,vidir_molemax
+ISIC_0029750,0,0,HAM_0002395,nv,follow_up,40,female,trunk,vidir_molemax
+ISIC_0029584,0,0,HAM_0007115,nv,follow_up,25,female,trunk,vidir_molemax
+ISIC_0031523,0,0,HAM_0000686,nv,follow_up,65,female,trunk,vidir_molemax
+ISIC_0029388,0,0,HAM_0006144,nv,follow_up,50,male,trunk,vidir_molemax
+ISIC_0028040,0,0,HAM_0001463,nv,follow_up,35,male,back,vidir_molemax
+ISIC_0024874,0,0,HAM_0000403,nv,follow_up,45,female,back,vidir_molemax
+ISIC_0025371,0,0,HAM_0002272,nv,follow_up,65,male,back,vidir_molemax
+ISIC_0026189,0,0,HAM_0000926,nv,follow_up,65,male,back,vidir_molemax
+ISIC_0024686,0,0,HAM_0001051,nv,follow_up,35,male,back,vidir_molemax
+ISIC_0030927,0,0,HAM_0002948,nv,follow_up,40,female,lower extremity,vidir_molemax
+ISIC_0027474,0,0,HAM_0000315,nv,follow_up,45,male,abdomen,vidir_molemax
+ISIC_0025604,0,0,HAM_0004903,nv,follow_up,35,female,lower extremity,vidir_molemax
+ISIC_0028320,0,0,HAM_0005577,nv,follow_up,40,male,trunk,vidir_molemax
+ISIC_0031141,0,0,HAM_0006278,nv,follow_up,40,female,lower extremity,vidir_molemax
+ISIC_0024346,0,0,HAM_0003411,nv,follow_up,50,female,trunk,vidir_molemax
+ISIC_0029506,0,0,HAM_0005497,nv,follow_up,60,male,abdomen,vidir_molemax
+ISIC_0027944,0,0,HAM_0003414,nv,follow_up,45,male,back,vidir_molemax
+ISIC_0026007,0,0,HAM_0003931,nv,follow_up,65,male,trunk,vidir_molemax
+ISIC_0027074,0,0,HAM_0000264,nv,follow_up,35,male,abdomen,vidir_molemax
+ISIC_0030453,0,0,HAM_0003116,nv,follow_up,30,female,lower extremity,vidir_molemax
+ISIC_0031229,0,0,HAM_0004489,nv,follow_up,45,female,back,vidir_molemax
+ISIC_0029185,0,0,HAM_0000890,nv,follow_up,40,male,abdomen,vidir_molemax
+ISIC_0027794,0,0,HAM_0002072,nv,follow_up,50,male,back,vidir_molemax
+ISIC_0028036,0,0,HAM_0000084,nv,follow_up,70,male,abdomen,vidir_molemax
+ISIC_0030780,0,0,HAM_0007501,nv,follow_up,45,male,trunk,vidir_molemax
+ISIC_0027845,0,0,HAM_0006167,nv,follow_up,50,female,foot,vidir_molemax
+ISIC_0031669,0,0,HAM_0004325,nv,follow_up,75,male,lower extremity,vidir_molemax
+ISIC_0026221,0,0,HAM_0006676,nv,follow_up,45,male,back,vidir_molemax
+ISIC_0024751,0,0,HAM_0004870,nv,follow_up,45,male,lower extremity,vidir_molemax
+ISIC_0030269,0,0,HAM_0006817,nv,follow_up,65,female,upper extremity,vidir_molemax
+ISIC_0027341,0,0,HAM_0007041,nv,follow_up,25,male,lower extremity,vidir_molemax
+ISIC_0029229,0,0,HAM_0006331,nv,follow_up,40,male,back,vidir_molemax
+ISIC_0026685,0,0,HAM_0002475,nv,follow_up,70,female,foot,vidir_molemax
+ISIC_0030200,0,0,HAM_0000495,nv,follow_up,50,male,trunk,vidir_molemax
+ISIC_0029883,0,0,HAM_0006382,nv,follow_up,45,female,upper extremity,vidir_molemax
+ISIC_0032490,0,0,HAM_0002620,nv,follow_up,45,male,back,vidir_molemax
+ISIC_0029273,0,0,HAM_0004538,nv,follow_up,50,female,upper extremity,vidir_molemax
+ISIC_0024953,0,0,HAM_0000252,nv,follow_up,45,female,trunk,vidir_molemax
+ISIC_0030214,0,0,HAM_0006216,nv,follow_up,50,male,trunk,vidir_molemax
+ISIC_0026064,0,0,HAM_0003714,nv,follow_up,55,female,abdomen,vidir_molemax
+ISIC_0024645,0,0,HAM_0000004,nv,follow_up,40,female,back,vidir_molemax
+ISIC_0026418,0,0,HAM_0005831,nv,follow_up,50,female,trunk,vidir_molemax
+ISIC_0024648,0,0,HAM_0002304,nv,follow_up,55,female,lower extremity,vidir_molemax
+ISIC_0027579,0,0,HAM_0004726,nv,follow_up,45,female,abdomen,vidir_molemax
+ISIC_0032127,0,0,HAM_0001595,nv,follow_up,70,male,lower extremity,vidir_molemax
+ISIC_0024389,0,0,HAM_0001760,nv,follow_up,45,male,lower extremity,vidir_molemax
+ISIC_0029999,0,0,HAM_0001373,nv,follow_up,50,female,lower extremity,vidir_molemax
+ISIC_0024613,0,0,HAM_0001291,nv,follow_up,60,female,upper extremity,vidir_molemax
+ISIC_0028153,0,0,HAM_0004294,nv,follow_up,50,female,foot,vidir_molemax
+ISIC_0025593,0,0,HAM_0001957,nv,follow_up,50,female,abdomen,vidir_molemax
+ISIC_0026288,0,0,HAM_0000932,nv,follow_up,30,female,trunk,vidir_molemax
+ISIC_0025360,0,0,HAM_0002006,nv,follow_up,50,male,back,vidir_molemax
+ISIC_0027869,0,0,HAM_0001411,nv,follow_up,35,female,lower extremity,vidir_molemax
+ISIC_0026065,0,0,HAM_0004554,nv,follow_up,65,male,trunk,vidir_molemax
+ISIC_0027177,0,0,HAM_0005680,nv,follow_up,25,male,trunk,vidir_molemax
+ISIC_0031124,0,0,HAM_0002510,nv,follow_up,35,male,lower extremity,vidir_molemax
+ISIC_0026031,0,0,HAM_0003261,nv,follow_up,60,male,back,vidir_molemax
+ISIC_0026780,0,0,HAM_0007320,nv,follow_up,50,male,upper extremity,vidir_molemax
+ISIC_0028244,0,0,HAM_0001533,nv,follow_up,50,male,lower extremity,vidir_molemax
+ISIC_0029873,0,0,HAM_0005824,nv,follow_up,45,male,upper extremity,vidir_molemax
+ISIC_0031210,0,0,HAM_0004390,nv,follow_up,35,male,back,vidir_molemax
+ISIC_0030834,0,0,HAM_0001871,nv,follow_up,50,female,abdomen,vidir_molemax
+ISIC_0029700,0,0,HAM_0001787,nv,follow_up,45,female,lower extremity,vidir_molemax
+ISIC_0027726,0,0,HAM_0003342,nv,follow_up,60,male,upper extremity,vidir_molemax
+ISIC_0025042,0,0,HAM_0004610,nv,follow_up,45,male,trunk,vidir_molemax
+ISIC_0031906,0,0,HAM_0004893,nv,follow_up,50,male,abdomen,vidir_molemax
+ISIC_0032062,0,0,HAM_0007366,nv,follow_up,50,female,trunk,vidir_molemax
+ISIC_0025281,0,0,HAM_0007416,nv,follow_up,55,male,upper extremity,vidir_molemax
+ISIC_0027844,0,0,HAM_0004595,nv,follow_up,50,male,back,vidir_molemax
+ISIC_0030419,0,0,HAM_0005063,nv,follow_up,60,male,upper extremity,vidir_molemax
+ISIC_0026651,0,0,HAM_0001969,nv,follow_up,55,male,lower extremity,vidir_molemax
+ISIC_0025841,0,0,HAM_0001210,nv,follow_up,40,male,lower extremity,vidir_molemax
+ISIC_0028397,0,0,HAM_0006183,nv,follow_up,70,female,lower extremity,vidir_molemax
+ISIC_0030896,0,0,HAM_0003406,nv,follow_up,55,male,abdomen,vidir_molemax
+ISIC_0030004,0,0,HAM_0007482,nv,follow_up,65,male,trunk,vidir_molemax
+ISIC_0029561,0,0,HAM_0005046,nv,follow_up,50,female,back,vidir_molemax
+ISIC_0032224,0,0,HAM_0005033,nv,follow_up,45,female,trunk,vidir_molemax
+ISIC_0024660,0,0,HAM_0001441,nv,follow_up,55,female,lower extremity,vidir_molemax
+ISIC_0031047,0,0,HAM_0002594,nv,follow_up,45,female,upper extremity,vidir_molemax
+ISIC_0025682,0,0,HAM_0004812,nv,follow_up,35,female,trunk,vidir_molemax
+ISIC_0029458,0,0,HAM_0002762,nv,follow_up,45,male,trunk,vidir_molemax
+ISIC_0031835,0,0,HAM_0006289,nv,follow_up,70,male,back,vidir_molemax
+ISIC_0027048,0,0,HAM_0001281,nv,follow_up,55,female,lower extremity,vidir_molemax
+ISIC_0027200,0,0,HAM_0001805,nv,follow_up,55,male,trunk,vidir_molemax
+ISIC_0031606,0,0,HAM_0006270,nv,follow_up,55,female,lower extremity,vidir_molemax
+ISIC_0028561,0,0,HAM_0005517,nv,follow_up,50,male,abdomen,vidir_molemax
+ISIC_0031035,0,0,HAM_0004253,nv,follow_up,60,male,lower extremity,vidir_molemax
+ISIC_0024921,0,0,HAM_0005936,nv,follow_up,60,male,trunk,vidir_molemax
+ISIC_0029284,0,0,HAM_0007048,nv,follow_up,45,female,abdomen,vidir_molemax
+ISIC_0030418,0,0,HAM_0005283,nv,follow_up,40,female,abdomen,vidir_molemax
+ISIC_0024764,0,0,HAM_0007246,nv,follow_up,55,female,foot,vidir_molemax
+ISIC_0029686,0,0,HAM_0006530,nv,follow_up,50,male,abdomen,vidir_molemax
+ISIC_0026478,0,0,HAM_0005656,nv,follow_up,45,male,face,vidir_molemax
+ISIC_0031357,0,0,HAM_0003289,nv,follow_up,45,female,abdomen,vidir_molemax
+ISIC_0027653,0,0,HAM_0005890,nv,follow_up,60,male,abdomen,vidir_molemax
+ISIC_0032298,0,0,HAM_0000694,nv,follow_up,65,female,lower extremity,vidir_molemax
+ISIC_0026515,0,0,HAM_0002779,nv,follow_up,45,female,lower extremity,vidir_molemax
+ISIC_0025929,0,0,HAM_0005195,nv,follow_up,50,female,lower extremity,vidir_molemax
+ISIC_0025685,0,0,HAM_0003029,nv,follow_up,50,female,abdomen,vidir_molemax
+ISIC_0026483,0,0,HAM_0003118,nv,follow_up,65,male,abdomen,vidir_molemax
+ISIC_0030869,0,0,HAM_0004838,nv,follow_up,70,male,lower extremity,vidir_molemax
+ISIC_0031448,0,0,HAM_0004486,nv,follow_up,45,male,upper extremity,vidir_molemax
+ISIC_0029540,0,0,HAM_0003516,nv,follow_up,55,male,upper extremity,vidir_molemax
+ISIC_0032275,0,0,HAM_0003489,nv,follow_up,40,male,trunk,vidir_molemax
+ISIC_0026283,0,0,HAM_0003654,nv,follow_up,50,female,trunk,vidir_molemax
+ISIC_0026181,0,0,HAM_0001560,nv,follow_up,35,female,back,vidir_molemax
+ISIC_0028189,0,0,HAM_0006849,nv,follow_up,60,male,back,vidir_molemax
+ISIC_0027879,0,0,HAM_0003863,nv,follow_up,40,female,lower extremity,vidir_molemax
+ISIC_0031579,0,0,HAM_0003020,nv,follow_up,75,male,back,vidir_molemax
+ISIC_0027881,0,0,HAM_0004473,nv,follow_up,40,female,upper extremity,vidir_molemax
+ISIC_0029090,0,0,HAM_0007389,nv,follow_up,45,male,trunk,vidir_molemax
+ISIC_0027895,0,0,HAM_0001653,nv,follow_up,55,female,lower extremity,vidir_molemax
+ISIC_0026696,0,0,HAM_0006473,nv,follow_up,45,female,trunk,vidir_molemax
+ISIC_0026951,0,0,HAM_0003861,nv,follow_up,40,female,back,vidir_molemax
+ISIC_0024849,0,0,HAM_0004573,nv,follow_up,55,female,trunk,vidir_molemax
+ISIC_0026639,0,0,HAM_0002410,nv,follow_up,45,female,genital,vidir_molemax
+ISIC_0031752,0,0,HAM_0007331,nv,follow_up,50,male,abdomen,vidir_molemax
+ISIC_0027617,0,0,HAM_0000363,nv,follow_up,60,male,abdomen,vidir_molemax
+ISIC_0026815,0,0,HAM_0000029,nv,follow_up,45,male,trunk,vidir_molemax
+ISIC_0030558,0,0,HAM_0007192,nv,follow_up,35,female,upper extremity,vidir_molemax
+ISIC_0031826,0,0,HAM_0000387,nv,follow_up,25,female,trunk,vidir_molemax
+ISIC_0030042,0,0,HAM_0004436,nv,follow_up,45,female,abdomen,vidir_molemax
+ISIC_0024354,0,0,HAM_0004117,nv,follow_up,40,female,abdomen,vidir_molemax
+ISIC_0030595,0,0,HAM_0002001,nv,follow_up,40,male,lower extremity,vidir_molemax
+ISIC_0026680,0,0,HAM_0006773,nv,follow_up,45,male,abdomen,vidir_molemax
+ISIC_0028919,0,0,HAM_0000964,nv,follow_up,60,male,lower extremity,vidir_molemax
+ISIC_0031205,0,0,HAM_0002920,nv,follow_up,35,female,trunk,vidir_molemax
+ISIC_0028432,0,0,HAM_0004778,nv,follow_up,45,female,trunk,vidir_molemax
+ISIC_0032054,0,0,HAM_0005350,nv,follow_up,35,female,upper extremity,vidir_molemax
+ISIC_0029595,0,0,HAM_0007520,nv,follow_up,60,female,trunk,vidir_molemax
+ISIC_0030670,0,0,HAM_0000726,nv,follow_up,65,male,trunk,vidir_molemax
+ISIC_0027015,0,0,HAM_0001851,nv,follow_up,45,male,foot,vidir_molemax
+ISIC_0030660,0,0,HAM_0003128,nv,follow_up,50,female,unknown,vidir_molemax
+ISIC_0024451,0,0,HAM_0003737,nv,follow_up,35,male,lower extremity,vidir_molemax
+ISIC_0025602,0,0,HAM_0006402,nv,follow_up,40,female,lower extremity,vidir_molemax
+ISIC_0028044,0,0,HAM_0000867,nv,follow_up,45,female,abdomen,vidir_molemax
+ISIC_0026529,0,0,HAM_0007109,nv,follow_up,55,male,abdomen,vidir_molemax
+ISIC_0028055,0,0,HAM_0002697,nv,follow_up,50,female,trunk,vidir_molemax
+ISIC_0027804,0,0,HAM_0005841,nv,follow_up,50,female,trunk,vidir_molemax
+ISIC_0031240,0,0,HAM_0004602,nv,follow_up,55,female,trunk,vidir_molemax
+ISIC_0029429,0,0,HAM_0003794,nv,follow_up,50,male,lower extremity,vidir_molemax
+ISIC_0025461,0,0,HAM_0000852,nv,follow_up,55,male,upper extremity,vidir_molemax
+ISIC_0024513,0,0,HAM_0003712,nv,follow_up,75,male,upper extremity,vidir_molemax
+ISIC_0031416,0,0,HAM_0003592,nv,follow_up,50,male,trunk,vidir_molemax
+ISIC_0030788,0,0,HAM_0004785,nv,follow_up,60,male,back,vidir_molemax
+ISIC_0031073,0,0,HAM_0001800,nv,follow_up,45,male,lower extremity,vidir_molemax
+ISIC_0025093,0,0,HAM_0003970,nv,follow_up,40,female,lower extremity,vidir_molemax
+ISIC_0032254,0,0,HAM_0001548,nv,follow_up,45,male,lower extremity,vidir_molemax
+ISIC_0027176,0,0,HAM_0003388,nv,follow_up,30,male,abdomen,vidir_molemax
+ISIC_0024950,0,0,HAM_0006493,nv,follow_up,45,female,back,vidir_molemax
+ISIC_0029449,0,0,HAM_0000957,nv,follow_up,55,female,back,vidir_molemax
+ISIC_0031367,0,0,HAM_0006891,nv,follow_up,50,male,trunk,vidir_molemax
+ISIC_0026320,0,0,HAM_0005564,nv,follow_up,45,female,abdomen,vidir_molemax
+ISIC_0027857,0,0,HAM_0000714,nv,follow_up,55,female,back,vidir_molemax
+ISIC_0028396,0,0,HAM_0005977,nv,follow_up,65,female,trunk,vidir_molemax
+ISIC_0032464,0,0,HAM_0001865,nv,follow_up,45,male,upper extremity,vidir_molemax
+ISIC_0026708,0,0,HAM_0005850,nv,follow_up,50,female,back,vidir_molemax
+ISIC_0024541,0,0,HAM_0004502,nv,follow_up,65,male,lower extremity,vidir_molemax
+ISIC_0028811,0,0,HAM_0003795,nv,follow_up,40,female,abdomen,vidir_molemax
+ISIC_0025111,0,0,HAM_0005819,nv,follow_up,45,male,trunk,vidir_molemax
+ISIC_0024609,0,0,HAM_0003498,nv,follow_up,40,male,trunk,vidir_molemax
+ISIC_0031588,0,0,HAM_0007567,nv,follow_up,45,female,lower extremity,vidir_molemax
+ISIC_0027981,0,0,HAM_0006648,nv,follow_up,45,male,back,vidir_molemax
+ISIC_0030308,0,0,HAM_0006250,nv,follow_up,45,female,trunk,vidir_molemax
+ISIC_0027330,0,0,HAM_0001985,nv,follow_up,45,male,back,vidir_molemax
+ISIC_0031680,0,0,HAM_0003731,nv,follow_up,45,female,trunk,vidir_molemax
+ISIC_0026191,0,0,HAM_0003084,nv,follow_up,45,female,upper extremity,vidir_molemax
+ISIC_0032005,0,0,HAM_0000455,nv,follow_up,50,female,back,vidir_molemax
+ISIC_0030799,0,0,HAM_0005771,nv,follow_up,50,female,trunk,vidir_molemax
+ISIC_0024444,0,0,HAM_0005543,nv,follow_up,55,female,lower extremity,vidir_molemax
+ISIC_0025037,0,0,HAM_0002893,nv,follow_up,75,male,trunk,vidir_molemax
+ISIC_0031553,0,0,HAM_0001285,nv,follow_up,55,female,trunk,vidir_molemax
+ISIC_0029593,0,0,HAM_0004229,nv,follow_up,40,male,trunk,vidir_molemax
+ISIC_0029922,0,0,HAM_0007121,nv,follow_up,35,male,back,vidir_molemax
+ISIC_0030430,0,0,HAM_0003185,nv,follow_up,40,male,foot,vidir_molemax
+ISIC_0025401,0,0,HAM_0000842,nv,follow_up,45,male,lower extremity,vidir_molemax
+ISIC_0031856,0,0,HAM_0007197,nv,follow_up,50,female,genital,vidir_molemax
+ISIC_0027233,0,0,HAM_0007375,nv,follow_up,50,female,trunk,vidir_molemax
+ISIC_0025538,0,0,HAM_0000661,nv,follow_up,55,male,upper extremity,vidir_molemax
+ISIC_0027207,0,0,HAM_0005138,nv,follow_up,45,female,trunk,vidir_molemax
+ISIC_0028917,0,0,HAM_0003349,nv,follow_up,65,female,lower extremity,vidir_molemax
+ISIC_0026408,0,0,HAM_0000271,nv,follow_up,40,female,trunk,vidir_molemax
+ISIC_0029896,0,0,HAM_0001352,nv,follow_up,50,female,trunk,vidir_molemax
+ISIC_0024631,0,0,HAM_0000046,nv,follow_up,50,female,upper extremity,vidir_molemax
+ISIC_0028572,0,0,HAM_0006013,nv,follow_up,35,male,abdomen,vidir_molemax
+ISIC_0028081,0,0,HAM_0000086,nv,follow_up,45,female,trunk,vidir_molemax
+ISIC_0031688,0,0,HAM_0000116,nv,follow_up,40,female,lower extremity,vidir_molemax
+ISIC_0030540,0,0,HAM_0000529,nv,follow_up,45,female,upper extremity,vidir_molemax
+ISIC_0027167,1,0,HAM_0003859,bkl,consensus,75,male,back,vidir_molemax
+ISIC_0032271,1,0,HAM_0002371,bkl,consensus,50,male,chest,vidir_molemax
+ISIC_0027027,1,0,HAM_0007604,bkl,consensus,70,female,trunk,vidir_molemax
+ISIC_0028826,1,0,HAM_0000865,bkl,consensus,70,male,abdomen,vidir_molemax
+ISIC_0029741,1,0,HAM_0005096,bkl,consensus,70,female,trunk,vidir_molemax
+ISIC_0028386,1,0,HAM_0005751,bkl,consensus,50,female,upper extremity,vidir_molemax
+ISIC_0029048,1,0,HAM_0000452,bkl,consensus,45,female,abdomen,vidir_molemax
+ISIC_0027954,1,0,HAM_0002034,bkl,consensus,5,male,abdomen,vidir_molemax
+ISIC_0026907,1,0,HAM_0005291,bkl,consensus,55,male,back,vidir_molemax
+ISIC_0026511,1,0,HAM_0002242,bkl,consensus,45,male,abdomen,vidir_molemax
+ISIC_0028925,1,0,HAM_0001752,bkl,consensus,70,female,lower extremity,vidir_molemax
+ISIC_0030207,1,0,HAM_0001399,bkl,consensus,75,female,trunk,vidir_molemax
+ISIC_0028003,2,1,HAM_0003484,mel,histo,30,male,lower extremity,vidir_molemax
+ISIC_0028760,2,1,HAM_0006088,mel,histo,30,female,abdomen,vidir_molemax
