@@ -3,7 +3,8 @@ This repository is an official PyTorch implementation of the paper "Personalized
 
 ## Retrogress Challenge
 <div align=center><img width="750" src=/figs/retrogress_curve.png></div>
-In the scenarios of real-world medical FL, an abrupt performance drop (termed as *retrogress*) *retrogress* of existing FL methods after each server-client communication. The inter-client data heterogeneity leads to enormous discrepancy between different local models. In this case, it becomes unreasonable to average parameters of client models in element-wise at the server side and to replace the previous local models with the aggregated server model at the client side.
+
+In the scenarios of real-world medical FL, an abrupt performance drop (termed as *retrogress*) of existing FL methods after each server-client communication. The inter-client data heterogeneity leads to enormous discrepancy between different local models. In this case, it becomes unreasonable to average parameters of client models in element-wise at the server side and to replace the previous local models with the aggregated server model at the client side.
 
 
 ## Personalized Retrogress-Resilient FL Framework
