@@ -1,5 +1,5 @@
 # Personalized Retrogress-Resilient Federated Learning (PRR-FL)
-This repository is an official PyTorch implementation of the paper "Personalized Retrogress-Resilient Framework for Real-World Medical Federated Learning" from MICCAI 2021.
+This repository is an official PyTorch implementation of the paper **"Personalized Retrogress-Resilient Framework for Real-World Medical Federated Learning"** [[paper](https://link.springer.com/chapter/10.1007%2F978-3-030-87199-4_33)] from MICCAI 2021.
 
 ## Retrogress Challenge
 <div align=center><img width="750" src=/figs/retrogress_curve.png></div>
