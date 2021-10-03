@@ -49,6 +49,7 @@ If you find our work useful in your research or publication, please cite our wor
   title={Personalized Retrogress-Resilient Framework for Real-World Medical Federated Learning},
   author={Chen, Zhen and Zhu, Meilu and Yang, Chen and Yuan, Yixuan},
   booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={347--356},
   year={2021},
   organization={Springer}
 }
