@@ -5,7 +5,7 @@ import argparse
 
 from utils import print_cz
 
-data_dir_split = '.data/'
+data_dir_split = './data/'
 csv_folder = './csv_folder/'
 
 def get_args():
